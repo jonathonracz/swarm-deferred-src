@@ -1,0 +1,22 @@
+"vguiprojected"
+{
+	"factory"	"particle"
+
+	"config"
+	{
+		"origin"	"0 0 100"
+		"angles"	"90 0 0"
+		"orthoscale"	"196"
+
+		"particles"
+		{
+			"particle_powerup"
+			{
+				"name"		"immolate_hover_main"
+
+				"origin"	"0 0 0"
+				"angles"	"0 0 0"
+			}
+		}
+	}
+}

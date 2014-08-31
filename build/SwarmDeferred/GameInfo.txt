@@ -1,0 +1,28 @@
+"GameInfo"
+{
+	"game"		"Swarm Deferred"
+	"title"		"    "	// asw - leave this blank as we have a texture logo
+	"type"		"multiplayer_only"
+	GameData	"swarm.fgd"
+	InstancePath "tilegen/instances/"
+	
+	SupportsDX8     0
+	
+	"FileSystem"
+	{
+		"SteamAppId"	"630"
+		"ToolsAppId"	"211"
+		
+		"SearchPaths"
+		{
+			"Game"	"|gameinfo_path|."
+			"Game"	"swarm"
+			"Game"	"swarm_tempcontent"
+			"Game"	"swarm_base"
+			"Game"	"platform"
+			//"Game"	"../left 4 dead/left4dead"
+			//"Game"	"../left 4 dead 2/left4dead2"
+			//"Game"	"../portal 2/portal2"
+		}
+	}
+}

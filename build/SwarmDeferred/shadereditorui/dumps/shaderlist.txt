@@ -1,0 +1,8 @@
+"shaderlist"
+{
+	"shader_000"		"dbg_editor_depth"
+	"shader_001"		"dbg_editor_lighting"
+	"shader_002"		"dbg_editor_normals"
+	"shader_003"		"pp_ssao_full"
+	"shader_004"		"pp_ssao_merge"
+}
