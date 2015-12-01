@@ -1,3 +1,12 @@
 *.sdf
 *.suo
 *.opensdf
+game/server/Debug_swarm/
+game/server/Release_swarm/
+game/client/Debug_swarm/
+game/client/Release_swarm/
+materialsystem/swarmshaders/Debug_dx9/
+materialsystem/swarmshaders/Release_dx9/
+ipch/
+materialsystem/shaderlib/Debug/
+materialsystem/shaderlib/Release/
